@@ -18,7 +18,7 @@ The **Startup Insights Explorer** is a data analytics project that empowers user
 
 ## Project Summary         
 
-### What Does This Project Offer?
+### What Does This Project Offer?       
 
 The **Startup Insights Explorer** provides an interactive and visually appealing interface to explore and analyze startup data. Users can gain valuable insights into different sectors and locations, helping them make informed decisions within the startup ecosystem.
 
