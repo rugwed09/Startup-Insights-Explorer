@@ -12,7 +12,7 @@ The **Startup Insights Explorer** is a data analytics project that empowers user
 
 - **Location Analytics**: Uncover regional nuances by exploring startups in different locations, such as Austin and Boston, to spot opportunities and variations.
 
-- **Metric Comparison**: Easily compare essential metrics like revenue, funding, and employee count across sectors and locations.
+- **Metric Comparison**: Easily compare essential metrics like revenue, funding, and employee count across sectors and locations.  
 
 - **Visual Storytelling**: Transform raw data into engaging visual narratives using a variety of data visualization techniques, including bar charts and radar plots.
 
